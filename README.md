@@ -1,7 +1,6 @@
 <font face="Arial" size="4" color="black">
   
-# Creation-of-Multipartite-Entangled-GHZ-and-W-States
-# GHZ and W-states using the QuTip
+# Creation of Multipartite Entangled GHZ and W States—With QuTiP Examples
 
 Author: Anastasiya Khromova (anastasiya.khromova17@gmail.com), 2025
 
