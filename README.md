@@ -1,7 +1,9 @@
 <font face="Arial" size="4" color="black">
   
 # Creation-of-Multipartite-Entangled-GHZ-and-W-States
-GHZ and W-states using the QuTip
+# GHZ and W-states using the QuTip
+
+Author: Anastasiya Khromova (anastasiya.khromova17@gmail.com), 2025
 
 GHZ and W-states have been used as resources for various quantum information processing tasks, such as quantum teleportation, quantum cryptography, and quantum error correction.
 
